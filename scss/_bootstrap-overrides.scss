@@ -36,6 +36,7 @@ a {
   &:active {
     background-color: darken($primary, 10%);
     border-color: darken($primary, 10%);
+    color: $white;
   }
 }
 
